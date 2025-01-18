@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glanten
-- 👀 I’m interested in game development on the Godot engine
-- 🌱 I’m currently learning to make a Progressive Web App as part of my final project for cs50x
-- 💞️ I’m not looking to collaborate on anything at the moment as I'm still finding my feet
+- 👀 I'm interested in game development in the Godot engine
+- 🌱 In 2025 I am developing my skills in Godot and looking to learn how to use Blender
+- 💞️ I usually work alone but I might be interested in collaborating with fellow independent Godot developers
 - 📫 How to reach me: carrier pigeon (organic) only
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: cats are not smaller than horses, they are merely further away
